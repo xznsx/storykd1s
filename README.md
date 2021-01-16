@@ -30,3 +30,11 @@ cd storykd1s/zns
 php run.php
 
 
+......
+
+Rest: 
+
+cd storykd1s/zns
+
+php login.php
+
