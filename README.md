@@ -25,7 +25,7 @@ php login.php
 Run script 
 
 
-cd storykd1s /zns
+cd storykd1s/zns
 
 php run.php
 
