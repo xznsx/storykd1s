@@ -33,7 +33,7 @@ php run.php
 ......
 اضافة حساب انستجرام آخر 
 
-Rest acaont: 
+Rest acaont login : 
 
 cd storykd1s/zns
 
@@ -44,10 +44,10 @@ php login.php
 .......
 
 اضافة أهداف أخرى للتفاعل
-Rest Run: 
+Rest target 🎯 : 
 
 
-pkg install
+pkg install nano 
 
 cd storykd1s/zns/data
 
