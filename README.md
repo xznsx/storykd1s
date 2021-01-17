@@ -31,10 +31,25 @@ php run.php
 
 
 ......
+اضافة حساب انستجرام آخر 
 
 Rest: 
 
 cd storykd1s/zns
 
 php login.php
+
+
+
+.......
+
+اضافة أهداف أخرى للتفاعل
+Rest Run 
+
+
+pkg install
+
+cd storykd1s/zns/data
+
+nano targetData.txt
 
