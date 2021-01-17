@@ -2,7 +2,7 @@ www.kd1s.com
 
 طريقة التركيب 
 
-Follow These Steps for Installation
+Follow These Steps for Installation:
 
 pkg install php
 
@@ -22,7 +22,7 @@ php login.php
 
 .........
 أوامر التشغيل 
-Run script 
+Run script: 
 
 
 cd storykd1s/zns
@@ -33,7 +33,7 @@ php run.php
 ......
 اضافة حساب انستجرام آخر 
 
-Rest: 
+Rest acaont: 
 
 cd storykd1s/zns
 
@@ -44,7 +44,7 @@ php login.php
 .......
 
 اضافة أهداف أخرى للتفاعل
-Rest Run 
+Rest Run: 
 
 
 pkg install
